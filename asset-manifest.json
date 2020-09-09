@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/optima/static/css/main.5f361e03.chunk.css",
+    "main.js": "/optima/static/js/main.db085ffa.chunk.js",
+    "main.js.map": "/optima/static/js/main.db085ffa.chunk.js.map",
+    "runtime-main.js": "/optima/static/js/runtime-main.d705e63e.js",
+    "runtime-main.js.map": "/optima/static/js/runtime-main.d705e63e.js.map",
+    "static/js/2.8d19b154.chunk.js": "/optima/static/js/2.8d19b154.chunk.js",
+    "static/js/2.8d19b154.chunk.js.map": "/optima/static/js/2.8d19b154.chunk.js.map",
+    "index.html": "/optima/index.html",
+    "precache-manifest.fdb8e6aff50fd658524b6641e0781fb8.js": "/optima/precache-manifest.fdb8e6aff50fd658524b6641e0781fb8.js",
+    "service-worker.js": "/optima/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/optima/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8d19b154.chunk.js.LICENSE.txt": "/optima/static/js/2.8d19b154.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/optima/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d705e63e.js",
+    "static/js/2.8d19b154.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.db085ffa.chunk.js"
+  ]
+}
